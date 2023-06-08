@@ -29,7 +29,7 @@ public class Algoritmo {
          */
         Scanner leitor = new Scanner(System.in, "UTF-8");
 
-        System.out.println("Digite a carga horária total dos docentes: ");
+        System.out.println("Digite a cabchxbzhcbxzhbchzxbchxzbhcbzxhbcxzhbchxzbchzxbhxcrga horária total dos docentes: ");
         h = leitor.nextDouble();
 
         System.out.println("Digite o número de docentes sem coordenação: ");
